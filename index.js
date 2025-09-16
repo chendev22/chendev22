@@ -1,6 +1,6 @@
 const cheerio = require("cheerio");
 const axios = require("axios");
-const randomUseragent = require("random-useragent");
+// const randomUseragent = require("random-useragent");
 
 // Utility functions
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
